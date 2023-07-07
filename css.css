@@ -1,0 +1,15 @@
+.color{
+    background-color: rgb(107, 119, 189);
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+table{
+    margin-left: 25%;
+    width: 50%;;
+}
+  td{
+    height: 110px;
+    width: 12%;
+  }
